@@ -1,4 +1,7 @@
-![github-header-image](https://github.com/IAMSAGAYAABINESH/IAMSAGAYAABINESH/assets/76099682/c5f00021-ed0c-416e-a215-05550b12ee6d)
+
+![Black and Blue Modern Game Mode Twitter Header](https://github.com/IAMSAGAYAABINESH/IAMSAGAYAABINESH/assets/76099682/ec50fb95-3816-48e9-9d6c-905334bbad21)
+
+Hi Everyone!👋
 
 - 🔭 I’m currently working on Stock Prdiction Application
 - 🌱 I’m currently learning Data Structures & Algorithms
