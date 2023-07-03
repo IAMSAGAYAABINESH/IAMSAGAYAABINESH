@@ -3,7 +3,7 @@
 
 Hi Everyone!👋
 
-- 🔭 I’m currently working on Stock Prdiction Application
+- 🔭 I’m currently working on Stock Prediction Application
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 👯 I’m looking to collaborate on Github & Kaggle
 - 💬 Ask me about AI/ML & Data
