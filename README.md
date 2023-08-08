@@ -9,6 +9,8 @@ Hi Everyone!👋
 - 💬 Ask me about AI/ML & Data
 - 📫 How to reach me:
   [LinkedIn](https://www.linkedin.com/in/sagaya-abinesh-r-970b84216/)
+
+  [Kaggle](https://www.kaggle.com/sagayaabinesh)
   
 - ⚡ Fun fact: I Can Learn New Things Faster!!
 
