@@ -2,11 +2,11 @@
 ![Black and Blue Modern Game Mode Twitter Header](https://github.com/IAMSAGAYAABINESH/IAMSAGAYAABINESH/assets/76099682/ec50fb95-3816-48e9-9d6c-905334bbad21)
 
 <h1 align="center">Hi 👋, I'm Sagaya Abinesh R</h1>
-<h3 align="center">A passionate AI/ML/Data Enthusiast from India</h3>
+<h3 align="center">A passionate **AI/ML/Data Enthusiast** from **India** </h3>
 
 - 🔭 I’m currently working on **Sales Forcasting Project**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Github and Kaggle**
 
