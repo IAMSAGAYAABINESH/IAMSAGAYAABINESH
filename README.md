@@ -1,5 +1,5 @@
 
-![Black and Blue Modern Game Mode Twitter Header](https://github.com/IAMSAGAYAABINESH/IAMSAGAYAABINESH/assets/76099682/ec50fb95-3816-48e9-9d6c-905334bbad21)
+![Sagaya Github IMG](https://github.com/IAMSAGAYAABINESH/IAMSAGAYAABINESH/assets/76099682/743bfefd-5e61-4560-8a66-70a02802a2d5)
 
 <h1 align="center">Hi 👋, I'm Sagaya Abinesh R</h1>
 <h3 align="center">A passionate AI/ML/Data Enthusiast from India </h3>
