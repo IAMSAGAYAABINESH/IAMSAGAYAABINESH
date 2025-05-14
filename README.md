@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate on **Github and Kaggle**
 
-- 👨‍💻 All of my projects are available at  [LinkedIn](https://www.linkedin.com/in/sagaya-abinesh-r-970b84216/) / [Kaggle](https://www.kaggle.com/sagayaabinesh)
+- 👨‍💻 my other projects are available at  [Kaggle](https://www.kaggle.com/sagayaabinesh)
 
 - 💬 Ask me about **AI / ML / Data**
 
-- 📫 How to reach me **abinesh.sagaya@gmail.com / [LinkedIn](https://www.linkedin.com/in/sagaya-abinesh-r-970b84216/)**
+- 📫 How to reach me **abinesh.sagaya@gmail.com
 
 - ⚡ Fun fact **I Can Learn New Things Faster!!**
 
