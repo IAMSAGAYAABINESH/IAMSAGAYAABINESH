@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **AI / ML / Data**
 
-- 📫 How to reach me **abinesh.sagaya@gmail.com
+- 📫 How to reach me abinesh.sagaya@gmail.com
 
 - ⚡ Fun fact **I Can Learn New Things Faster!!**
 
